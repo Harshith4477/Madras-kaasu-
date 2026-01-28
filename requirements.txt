@@ -1,0 +1,4 @@
+Flask==2.3.2
+werkzeug==2.3.7
+
+# SQLite is built-in to Python; Chart.js is loaded via CDN in the HTML.
